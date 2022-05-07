@@ -1,4 +1,4 @@
-# Age-Prediction-from-Photos
+# Age Prediction from Photos
 
 CSCI181Y Final Project
 
